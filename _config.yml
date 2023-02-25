@@ -1,14 +1,14 @@
 # REMEMBER TO EDIT THIS BEFORE DEPLOYING!!!
 
 # the path to your blog's icon:
-favicon: /favicon.png
+favicon: /source/personal/rui.jpg
 
 # the path to manifest.json
 manifest: /manifest.json
 
 # [Open Graph Protocol](https://ogp.me/)
 og_enabled: true
-og_image: /favicon.png
+og_image: /source/personal/rui.jpg
 og:
   # customize og properties here which will replace the defaults
 
@@ -54,7 +54,7 @@ scroll_reveal: true
 # navigation config
 nav:
   # the title displays in the upper left corner which won't change
-  title: Blog
+  title: Blog written by Ray
   # the items displays in the upper right corner
   items:
     # these items will display as a link
@@ -63,11 +63,11 @@ nav:
     Projects: /projects
     About: /about
     # these will be automatically be an icon
-    GitHub: https://github.com/MrWillCom
-    CodePen: https://codepen.io/mrwillcom
-    Patreon: https://www.patreon.com/MrWillCom
-    Mastodon: https://noc.social/@MrWillCom
-    Discord: https://discord.gg/UKuFDjcfY8
+    GitHub: https://github.com/Ray7788
+    # CodePen: https://codepen.io/mrwillcom
+    # Patreon: https://www.patreon.com/MrWillCom
+    # Mastodon: https://noc.social/@MrWillCom
+    # Discord: https://discord.gg/UKuFDjcfY8
     Search: /search
 
 # footer items
@@ -82,25 +82,25 @@ footer:
     Search: /search
     Friends: /friends
     Projects: /projects
-    Resume: /resume
+    # Resume: /resume
     About: /about
     RSS: /atom.xml
   # also the title
   Projects:
     # the items
-    RSA CLI: https://github.com/MrWillCom/rsa-cli
-    Hexo Theme Cupertino: https://github.com/MrWillCom/hexo-theme-cupertino
-    A Calendar: https://github.com/MrWillCom/a-calendar
-    Auto Mirroring Bucket: https://github.com/MrWillCom/auto-mirroring-bucket
+    # RSA CLI: https://github.com/MrWillCom/rsa-cli
+    # Hexo Theme Cupertino: https://github.com/MrWillCom/hexo-theme-cupertino
+    # A Calendar: https://github.com/MrWillCom/a-calendar
+    # Auto Mirroring Bucket: https://github.com/MrWillCom/auto-mirroring-bucket
   # the title
   Me:
     # items
-    GitHub: https://github.com/MrWillCom
-    CodePen: https://codepen.io/mrwillcom
-    Patreon: https://www.patreon.com/MrWillCom
-    Mastodon: https://noc.social/@MrWillCom
-    Discord: https://discord.gg/UKuFDjcfY8
-    Email: mailto:mr.will.com@outlook.com
+    GitHub: https://github.com/Ray7788
+    # CodePen: https://codepen.io/mrwillcom
+    # Patreon: https://www.patreon.com/MrWillCom
+    # Mastodon: https://noc.social/@MrWillCom
+    # Discord: https://discord.gg/UKuFDjcfY8
+    Email: ray778@foxmail.com
 
 # footer extra description
 # footer_extra_description: something will be shown at the bottom of the footer
