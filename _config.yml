@@ -54,7 +54,7 @@ scroll_reveal: true
 # navigation config
 nav:
   # the title displays in the upper left corner which won't change
-  title: Blog written by Ray
+  title: Ray
   # the items displays in the upper right corner
   items:
     # these items will display as a link
@@ -103,7 +103,7 @@ footer:
     Email: ray778@foxmail.com
 
 # footer extra description
-# footer_extra_description: something will be shown at the bottom of the footer
+footer_extra_description: Everything would be OK.
 
 # the license your posts under
 license: CC BY-NC 4.0
