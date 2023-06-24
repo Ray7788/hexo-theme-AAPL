@@ -1,7 +1,7 @@
 # REMEMBER TO EDIT THIS BEFORE DEPLOYING!!!
 
 # the path to your blog's icon:
-favicon: /source/personal/rui.jpg
+favicon: source/personal/rui.jpg
 
 # the path to manifest.json
 manifest: /manifest.json
@@ -103,7 +103,7 @@ footer:
     Email: ray778@foxmail.com
 
 # footer extra description
-footer_extra_description: Everything would be OK.
+footer_extra_description: 永远相信美好的事情即将发生。Always believe something great is going to happen.
 
 # the license your posts under
 license: CC BY-NC 4.0
